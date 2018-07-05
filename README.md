@@ -164,6 +164,4 @@ Apache Hive:  Hive is also developed by Apache as a data warehouse software proj
 
 ## Why choose Apache Hive:
 
-As a data-science student, I have trained myself on relational databases such as SQLServer and Oracle. Hive, having huge similarities with the SQL language was easier to form queries and perform analysis required for the given project. The integration with the Hadoop clusters seems faster than the runs I had performed with the pySpark implementation. Also, Hive tables are directly defined on HDFS so it was easier to transfer data and perform operations over it. It has saved from writing complex codes while sticking to SQL queries for data processing.
-
-## Screenshots of execution:
+As a data science enthusiast, I have trained myself on relational databases such as SQLServer and Oracle. Hive, having huge similarities with the ANSI coded SQL language, it was easier to adapt and generate queries and perform analysis required for the analysis. The integration with the Hadoop clusters seems faster than the runs I had performed with the pySpark implementation. Also, Hive tables are directly defined on HDFS so it was easier to transfer data and perform operations over it. It saved from writing complex codes while sticking to SQL queries for data processing.
